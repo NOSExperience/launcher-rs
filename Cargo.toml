@@ -1,0 +1,11 @@
+[package]
+name = "launcher-rs"
+version = "0.1.0"
+authors = ["twetzel59 <twetzel59@gmail.com>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.2.0"
+features = ["v3_10"]
+
